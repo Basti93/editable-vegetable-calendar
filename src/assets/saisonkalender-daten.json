@@ -1,0 +1,927 @@
+{
+  "title": "MARKTSCHWÄRMER DEFAULT",
+  "vegetables": [
+    {
+      "name": "Auberginen",
+      "season": {
+        "fresh": {
+          "months": [
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        "storage": {
+          "months": []
+        }
+      }
+    },
+    {
+      "name": "Spinat",
+      "season": {
+        "fresh": {
+          "months": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+          ]
+        },
+        "storage": {
+          "months": [
+            12
+          ]
+        }
+      }
+    },
+    {
+      "name": "Rotkohl",
+      "season": {
+        "fresh": {
+          "months": [
+            7,
+            8,
+            9,
+            10,
+            11
+          ],
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "invertOffset": false
+        },
+        "storage": {
+          "months": [
+            1,
+            2,
+            3,
+            12
+          ],
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "invertOffset": false
+        }
+      }
+    },
+    {
+      "name": "Blumenkohl",
+      "season": {
+        "fresh": {
+          "months": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        "storage": {
+          "months": []
+        }
+      }
+    },
+    {
+      "name": "Brokkoli",
+      "season": {
+        "fresh": {
+          "months": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        "storage": {
+          "months": []
+        }
+      }
+    },
+    {
+      "name": "Bundzwiebel",
+      "season": {
+        "fresh": {
+          "months": [
+            6,
+            7
+          ]
+        },
+        "storage": {
+          "months": []
+        }
+      }
+    },
+    {
+      "name": "Chinakohl",
+      "season": {
+        "fresh": {
+          "months": [
+            8,
+            9,
+            10
+          ]
+        },
+        "storage": {
+          "months": [
+            1,
+            2,
+            3,
+            11,
+            12
+          ]
+        }
+      }
+    },
+    {
+      "name": "Feldsalat",
+      "season": {
+        "fresh": {
+          "months": [
+            1,
+            2,
+            3,
+            10,
+            11,
+            12
+          ]
+        },
+        "storage": {
+          "months": []
+        }
+      }
+    },
+    {
+      "name": "Zwiebel",
+      "season": {
+        "fresh": {
+          "months": [
+            6,
+            7,
+            8,
+            9,
+            10
+          ],
+          "offsetStart": -100,
+          "offsetEnd": -100,
+          "invertOffset": false
+        },
+        "storage": {
+          "months": [
+            1,
+            2,
+            11,
+            12
+          ],
+          "offsetStart": -100,
+          "offsetEnd": -100,
+          "invertOffset": false
+        }
+      }
+    },
+    {
+      "name": "Grünkohl",
+      "season": {
+        "fresh": {
+          "months": [
+            1,
+            12
+          ],
+          "offsetStart": -100,
+          "offsetEnd": -100,
+          "invertOffset": false
+        },
+        "storage": {
+          "months": [],
+          "offsetStart": -100,
+          "offsetEnd": -100,
+          "invertOffset": false
+        }
+      }
+    },
+    {
+      "name": "Grünspargel",
+      "season": {
+        "fresh": {
+          "months": [
+            4,
+            5,
+            6
+          ]
+        },
+        "storage": {
+          "months": []
+        }
+      }
+    },
+    {
+      "name": "Gurken",
+      "season": {
+        "fresh": {
+          "months": [
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        "storage": {
+          "months": []
+        }
+      }
+    },
+    {
+      "name": "Karotten",
+      "season": {
+        "fresh": {
+          "months": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+          ]
+        },
+        "storage": {
+          "months": [
+            1,
+            1,
+            2,
+            3,
+            12
+          ]
+        }
+      }
+    },
+    {
+      "name": "Kartoffeln",
+      "season": {
+        "fresh": {
+          "months": [
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+          ]
+        },
+        "storage": {
+          "months": [
+            1,
+            1,
+            2,
+            4,
+            3,
+            5,
+            12
+          ]
+        }
+      }
+    },
+    {
+      "name": "Champignons",
+      "season": {
+        "fresh": {
+          "months": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ],
+          "offsetStart": -100,
+          "offsetEnd": -100,
+          "invertOffset": false
+        },
+        "storage": {
+          "months": [],
+          "offsetStart": -100,
+          "offsetEnd": -100,
+          "invertOffset": false
+        }
+      }
+    },
+    {
+      "name": "Lauch",
+      "season": {
+        "fresh": {
+          "months": [
+            3,
+            2,
+            1,
+            8,
+            9,
+            10,
+            11,
+            12
+          ],
+          "offsetStart": -100,
+          "offsetEnd": -100,
+          "invertOffset": false
+        },
+        "storage": {
+          "months": [],
+          "offsetStart": -100,
+          "offsetEnd": -100,
+          "invertOffset": false
+        }
+      }
+    },
+    {
+      "name": "Rosenkohl",
+      "season": {
+        "fresh": {
+          "months": [
+            2,
+            1,
+            11,
+            12
+          ],
+          "offsetStart": -100,
+          "offsetEnd": -100,
+          "invertOffset": false
+        },
+        "storage": {
+          "months": [],
+          "offsetStart": -100,
+          "offsetEnd": -100,
+          "invertOffset": false
+        }
+      }
+    },
+    {
+      "name": "Kürbis",
+      "season": {
+        "fresh": {
+          "months": [
+            10,
+            9,
+            11,
+            8
+          ],
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "invertOffset": false
+        },
+        "storage": {
+          "months": [
+            2,
+            3,
+            12,
+            1
+          ],
+          "offsetStart": 0,
+          "offsetEnd": -100,
+          "invertOffset": false
+        }
+      }
+    },
+    {
+      "name": "Rote Beete",
+      "season": {
+        "fresh": {
+          "months": [
+            9,
+            8,
+            10,
+            11,
+            7
+          ],
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "invertOffset": false
+        },
+        "storage": {
+          "months": [
+            3,
+            2,
+            1,
+            12
+          ],
+          "offsetStart": 0,
+          "offsetEnd": -100,
+          "invertOffset": false
+        }
+      }
+    },
+    {
+      "name": "Wirsing",
+      "season": {
+        "fresh": {
+          "months": [
+            11,
+            7,
+            8,
+            9,
+            10,
+            6
+          ],
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "invertOffset": false
+        },
+        "storage": {
+          "months": [
+            12,
+            1,
+            2,
+            3,
+            4
+          ],
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "invertOffset": false
+        }
+      }
+    },
+    {
+      "name": "Weißkohl",
+      "season": {
+        "fresh": {
+          "months": [
+            11,
+            10,
+            9,
+            8,
+            7
+          ],
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "invertOffset": false
+        },
+        "storage": {
+          "months": [
+            12,
+            1,
+            2,
+            3,
+            4
+          ],
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "invertOffset": false
+        }
+      }
+    },
+    {
+      "name": "Knollensellerie",
+      "season": {
+        "fresh": {
+          "months": [
+            7,
+            8,
+            9,
+            10,
+            11
+          ],
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "invertOffset": false
+        },
+        "storage": {
+          "months": [
+            12,
+            6,
+            5,
+            4,
+            3,
+            2,
+            1
+          ],
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "invertOffset": false
+        }
+      }
+    },
+    {
+      "name": "Radieschen",
+      "season": {
+        "fresh": {
+          "months": [
+            4,
+            10,
+            5,
+            6,
+            7,
+            8,
+            9
+          ],
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "invertOffset": false
+        },
+        "storage": {
+          "months": [],
+          "offsetStart": -100,
+          "offsetEnd": -100,
+          "invertOffset": false
+        }
+      }
+    },
+    {
+      "name": "Blattsalate ",
+      "season": {
+        "fresh": {
+          "months": [
+            5,
+            10,
+            11,
+            9,
+            8,
+            7,
+            6
+          ],
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "invertOffset": false
+        },
+        "storage": {
+          "months": [],
+          "offsetStart": -100,
+          "offsetEnd": -100,
+          "invertOffset": false
+        }
+      }
+    },
+    {
+      "name": "Rhababer",
+      "season": {
+        "fresh": {
+          "months": [
+            4,
+            6,
+            5
+          ],
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "invertOffset": false
+        },
+        "storage": {
+          "months": [],
+          "offsetStart": -100,
+          "offsetEnd": -100,
+          "invertOffset": false
+        }
+      }
+    },
+    {
+      "name": "Mangold",
+      "season": {
+        "fresh": {
+          "months": [
+            5,
+            9,
+            8,
+            7,
+            6
+          ],
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "invertOffset": false
+        },
+        "storage": {
+          "months": [],
+          "offsetStart": -100,
+          "offsetEnd": -100,
+          "invertOffset": false
+        }
+      }
+    },
+    {
+      "name": "Kohlrabi",
+      "season": {
+        "fresh": {
+          "months": [
+            6,
+            10,
+            9,
+            8,
+            7
+          ],
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "invertOffset": false
+        },
+        "storage": {
+          "months": [],
+          "offsetStart": -100,
+          "offsetEnd": -100,
+          "invertOffset": false
+        }
+      }
+    },
+    {
+      "name": "Zucchini",
+      "season": {
+        "fresh": {
+          "months": [
+            7,
+            6,
+            10,
+            9,
+            8
+          ],
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "invertOffset": false
+        },
+        "storage": {
+          "months": [],
+          "offsetStart": -100,
+          "offsetEnd": -100,
+          "invertOffset": false
+        }
+      }
+    },
+    {
+      "name": "Tomaten",
+      "season": {
+        "fresh": {
+          "months": [
+            8,
+            10,
+            9
+          ],
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "invertOffset": false
+        },
+        "storage": {
+          "months": [],
+          "offsetStart": -100,
+          "offsetEnd": -100,
+          "invertOffset": false
+        }
+      }
+    },
+    {
+      "name": "Bohnen",
+      "season": {
+        "fresh": {
+          "months": [
+            7,
+            10,
+            9,
+            8
+          ],
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "invertOffset": false
+        },
+        "storage": {
+          "months": [],
+          "offsetStart": -100,
+          "offsetEnd": -100,
+          "invertOffset": false
+        }
+      }
+    },
+    {
+      "name": "Erbsen",
+      "season": {
+        "fresh": {
+          "months": [
+            6,
+            9,
+            8,
+            7
+          ],
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "invertOffset": false
+        },
+        "storage": {
+          "months": [],
+          "offsetStart": -100,
+          "offsetEnd": -100,
+          "invertOffset": false
+        }
+      }
+    }
+  ],
+  "fruits": [
+    {
+      "name": "Äpfel",
+      "season": {
+        "fresh": {
+          "months": [
+            8,
+            9,
+            10,
+            11
+          ],
+          "offsetStart": -10,
+          "offsetEnd": -80
+        },
+        "storage": {
+          "months": [
+            1,
+            2,
+            3,
+            12
+          ],
+          "offsetStart": -10,
+          "offsetEnd": -80
+        }
+      }
+    },
+    {
+      "name": "Birnen",
+      "season": {
+        "fresh": {
+          "months": [
+            8,
+            9
+          ]
+        },
+        "storage": {
+          "months": [
+            1,
+            10,
+            12,
+            11
+          ]
+        }
+      }
+    },
+    {
+      "name": "Blaubeeren",
+      "season": {
+        "fresh": {
+          "months": [
+            8,
+            9,
+            7,
+            6
+          ],
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "invertOffset": false
+        },
+        "storage": {
+          "months": [
+            10,
+            12,
+            11
+          ],
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "invertOffset": false
+        }
+      }
+    },
+    {
+      "name": "Erdbeeren",
+      "season": {
+        "fresh": {
+          "months": [
+            6,
+            7,
+            8,
+            9
+          ],
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "invertOffset": false
+        },
+        "storage": {
+          "months": [],
+          "offsetStart": -100,
+          "offsetEnd": -100,
+          "invertOffset": false
+        }
+      }
+    },
+    {
+      "name": "Johannisbeeren",
+      "season": {
+        "fresh": {
+          "months": [
+            6,
+            9,
+            8,
+            7
+          ],
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "invertOffset": false
+        },
+        "storage": {
+          "months": [],
+          "offsetStart": -100,
+          "offsetEnd": -100,
+          "invertOffset": false
+        }
+      }
+    },
+    {
+      "name": "Himbeeren",
+      "season": {
+        "fresh": {
+          "months": [
+            8,
+            9,
+            7
+          ],
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "invertOffset": false
+        },
+        "storage": {
+          "months": [],
+          "offsetStart": -100,
+          "offsetEnd": -100,
+          "invertOffset": false
+        }
+      }
+    },
+    {
+      "name": "Kirschen",
+      "season": {
+        "fresh": {
+          "months": [
+            7,
+            8
+          ],
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "invertOffset": false
+        },
+        "storage": {
+          "months": [],
+          "offsetStart": -100,
+          "offsetEnd": -100,
+          "invertOffset": false
+        }
+      }
+    },
+    {
+      "name": "Pflaumen",
+      "season": {
+        "fresh": {
+          "months": [
+            7,
+            9,
+            8
+          ],
+          "offsetStart": 0,
+          "offsetEnd": 0,
+          "invertOffset": false
+        },
+        "storage": {
+          "months": [],
+          "offsetStart": -100,
+          "offsetEnd": -100,
+          "invertOffset": false
+        }
+      }
+    }
+  ],
+  "herbs": [
+    {
+      "name": "Bärlauch",
+      "season": {
+        "fresh": {
+          "months": [
+            5,
+            6,
+            7,
+            4,
+            8
+          ],
+          "offsetStart": 10,
+          "offsetEnd": 80
+        },
+        "storage": {
+          "months": [],
+          "offsetStart": 0,
+          "offsetEnd": 0
+        }
+      }
+    }
+  ],
+  "additionalInformation": "WEITERE INFORMATIONEN HIER EINTRAGEN WENN NÖTIG"
+}
